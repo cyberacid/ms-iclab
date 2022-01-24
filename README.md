@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Star
 
 ## Windows
 
