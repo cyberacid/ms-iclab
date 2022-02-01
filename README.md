@@ -1,4 +1,4 @@
-# Getting Startaa
+# Getting Starte
 
 ## Windows
 
