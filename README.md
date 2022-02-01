@@ -1,4 +1,4 @@
-# Getting Sta
+# Getting Started
 ## Windows
 
 ### Compile Code
