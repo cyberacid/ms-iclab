@@ -1,4 +1,4 @@
-# Getting Startede
+# Getting Start
 ## Windows
 
 ### Compile Code
