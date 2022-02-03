@@ -1,4 +1,4 @@
-# Getting Starte
+# Getting Started
 
 ## Windowsasd
 ### Compile Code
